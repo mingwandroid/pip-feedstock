@@ -13,6 +13,7 @@ source:
 
 build:
   number: 0
+  disable_pip: True
   entry_points:
     - pip = pip:main
 
